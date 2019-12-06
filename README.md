@@ -1,4 +1,3 @@
-# vba_homework_2
-Second Homework Assignment from DU Data Science Bootcamp
+# stock-price-vba
 
-There are two files, one for the easy version of the assignment and one for the moderate version.
+Used vba to analyze stock prices and compute price changes, volume and other metrics.
